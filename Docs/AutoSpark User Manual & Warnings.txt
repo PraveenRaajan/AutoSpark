@@ -1,0 +1,88 @@
+AutoSpark – User Manual
+
+Welcome to AutoSpark! This manual provides a quick overview of how to use the application to automate common tasks on your Windows system.
+
+---
+
+Adding Tasks
+
+To add a new task:
+
+- Use the task selection panel on the right side of the application.
+- Choose from a variety of available actions, such as:
+
+  - Open File / Folder / URL  
+  - Run Command in Command Prompt  
+  - Delete Files  
+  - Delete Folder  
+  - Delete Folder Only if Empty  
+  - Empty Folder  
+  - Close Application  
+  - Delay  
+  - Backup Folders  
+  - Run Security Scan  
+  - Clean Temp Folder  
+  - Take Screenshot  
+  - Shutdown / Restart / Sleep (Use with caution)
+
+Each task type includes fields for configuration. Make sure to fill in the required information.
+
+---
+
+Deleting or Reordering Tasks
+
+To modify the task list:
+
+- Right-click on any task in the list.
+- Choose one of the following:
+  - Delete – Removes the selected task.
+  - Move Up – Shifts the task one position higher.
+  - Move Down – Shifts the task one position lower.
+
+This helps organize the execution order of tasks.
+
+---
+
+Saving Tasks
+
+To save your task list:
+
+- Click the File menu at the top-left of the app.
+- Choose:
+  - Save – Overwrites the currently opened task file.
+  - Save As – Saves the tasks under a new name or location.
+
+Both options work similarly and can be used interchangeably.
+
+AutoSpark – Important Warnings & Safety Information
+
+Please read the following warnings carefully before using AutoSpark. These precautions are intended to prevent unintentional damage or disruption to your system.
+
+1. DO NOT delete critical system files or folders
+   - Deleting important Windows files can make your system unstable or unbootable.
+   - Always double-check paths before adding delete or empty folder tasks.
+   - Avoid targeting system directories like:
+     - C:\Windows
+     - C:\Program Files
+     - C:\Users\Default
+     - Any file/folder you are unsure about
+
+2. DO NOT add shutdown, restart, or sleep tasks in the startup sequence
+   - Placing these commands in the startup automation may result in a loop that restarts or shuts down your system continuously after boot.
+   - This could make your PC unusable and difficult to recover without booting into Safe Mode.
+
+3. Test your batch files before enabling them in startup
+   - Always run your batch file manually first to verify it performs as expected.
+   - Only move your batch file to the startup folder after you have thoroughly tested it.
+
+4. Backup your data before using automation
+   - Automation tasks can be powerful but dangerous if misconfigured.
+   - Always create backups of important files before automating actions like delete, move, or rename.
+
+5. The app runs with system-level permissions
+   - Actions performed using AutoSpark may have system-wide effects.
+   - Use caution, especially when enabling tasks that modify files, folders, or system settings.
+
+You are solely responsible for any changes made to your system using AutoSpark.
+Use with caution and at your own risk.
+

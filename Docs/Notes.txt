@@ -1,0 +1,35 @@
+#Requires PyInstaller which can be downloaded through this command if python is added to system path
+pip install pyinstaller
+
+#PyInstaller command if you have upx added to system path
+pyinstaller --noconfirm --clean --onefile --noconsole --noupx ^
+--icon=autospark.ico ^
+--add-data "autospark.ico;." ^
+--exclude-module numpy ^
+--exclude-module pandas ^
+--exclude-module matplotlib ^
+--exclude-module PyQt5 ^
+--exclude-module tests ^
+--exclude-module asyncio ^
+--exclude-module email ^
+AutoSpark.py
+
+#The app doesn't need any external files as the .exe file has everything required
+
+# Built using Python 3.11.4 (64-bit)
+
+#PyInstaller command if you use default Pyinstaller 
+pyinstaller --noconfirm --clean --onefile --noconsole ^
+--icon=autospark.ico ^
+--add-data "autospark.ico;." ^
+--exclude-module numpy ^
+--exclude-module pandas ^
+--exclude-module matplotlib ^
+--exclude-module PyQt5 ^
+--exclude-module tests ^
+--exclude-module asyncio ^
+--exclude-module email ^
+AutoSpark.py
+
+# Optional Cleanup (after successful build):
+# You can delete the 'build' folder and 'AutoSpark.spec' as they are not needed for the functioning of the executable

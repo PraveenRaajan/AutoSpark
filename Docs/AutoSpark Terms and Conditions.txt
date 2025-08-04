@@ -1,0 +1,51 @@
+
+AutoSpark – Terms and Conditions
+Last updated: May 18, 2025
+
+Please read these Terms and Conditions carefully before using the AutoSpark application developed by the creator (S Praveen Raajan).
+
+By downloading, installing, or using AutoSpark, you agree to be bound by these Terms.
+
+1. Use of the App
+- AutoSpark is provided for both personal and commercial use.
+- You agree not to use the App for any unlawful purposes or to automate malicious behavior.
+- The App performs automation functions on your local system only.
+
+2. Offline and Data Ownership
+- AutoSpark is a 100% offline application. It does not connect to the internet, send any data to external servers, or collect analytics of any kind.
+- All data created, stored, or modified through the App resides solely on your device and is fully owned and accessible only by you.
+- You are responsible for managing your data, backups, and the security of your files.
+
+3. Permissions and Access
+- The App may require elevated permissions (e.g., Administrator rights) to perform certain system-level actions.
+- You acknowledge that you are solely responsible for granting these permissions and understand the potential impact on your system.
+
+4. No Warranty
+- AutoSpark is provided "as-is" without warranties of any kind, either express or implied.
+- We do not guarantee that the App will be error-free, or free from bugs or compatibility issues.
+
+5. Limitation of Liability
+- In no event shall the Developer be held liable for any damages, data loss, or system issues resulting from the use or inability to use the App.
+- You use the App at your own risk and are solely responsible for the automation tasks you configure and execute.
+
+6. Updates and Changes
+- The App may receive updates to improve features or fix issues. These updates may be distributed manually or as new downloadable versions.
+- We reserve the right to modify or discontinue the App at any time without notice.
+
+7. Intellectual Property and Usage Rights
+The AutoSpark codebase, executable, and branding assets are the intellectual property of the Developer (S. Praveen Raajan).
+You may use, run, and modify the App or its source code for personal or commercial purposes, provided you do not distribute any modified versions.
+You are permitted to:
+- Use the original, unmodified version of the App or its source code for both personal and commercial use.
+- Share or distribute the original, unmodified version of the App publicly or privately, provided these Terms and Conditions remain attached.
+You are not permitted to:
+- Distribute, publish, or share any modified version of the App or its source code.
+- Represent modified versions as official or affiliated with the Developer.
+- Use the App or its original/modified versions for any unlawful or malicious purposes.
+The Developer retains all rights not explicitly granted in these Terms.
+
+8. Governing Law
+- These Terms shall be governed and construed in accordance with the laws of your local jurisdiction.
+
+9. Contact and Support
+This application is provided without dedicated customer support. The Developer does not guarantee availability for inquiries, bug reports, or feedback.
